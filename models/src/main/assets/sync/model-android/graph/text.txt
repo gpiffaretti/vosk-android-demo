@@ -1,0 +1,17 @@
+left hazard
+right hazard
+left clear
+right clear
+right hazard
+speed limit is ten
+speed limit is fifteen
+speed limit is twenty
+speed limit is twenty five
+speed limit is thirty
+speed limit is thirty five
+speed limit is forty
+speed limit is forty five
+stale green light
+following distance hazard
+clearing tracks left
+clearing tracks right
